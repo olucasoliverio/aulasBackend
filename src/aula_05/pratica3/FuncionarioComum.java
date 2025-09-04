@@ -1,4 +1,4 @@
-package aula_05.pratica2;
+package aula_05.pratica3;
 
 public class FuncionarioComum {
     protected String nome;

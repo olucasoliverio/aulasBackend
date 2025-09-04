@@ -1,4 +1,4 @@
-package aula_05.pratica;
+package aula_05.pratica2;
 
 public class Motor {
     private int potencia;

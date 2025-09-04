@@ -1,8 +1,8 @@
-package aula_05.pratica;
+package aula_05.pratica2;
 
 public class Carro {
     private String modelo;
-    private Motor motor;
+    public Motor motor;
 
     public Carro (String modelo, Motor motor) {
         this.modelo = modelo;

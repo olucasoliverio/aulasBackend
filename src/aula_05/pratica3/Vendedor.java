@@ -1,4 +1,6 @@
-package aula_05.pratica2;
+package aula_05.pratica3;
+
+import aula_05.pratica3.FuncionarioComum;
 
 public class Vendedor extends FuncionarioComum {
 
